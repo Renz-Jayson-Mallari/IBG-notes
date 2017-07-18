@@ -1,0 +1,47 @@
+2011 Hyundai Sonata with 57,000 miles
+The car is very clean both inside and outside.
+Price is $5999. Call 6462676290
+
+core java concepts
+
+Class --> A class is nothting but a blueprint or template for creating different object which defines its properties and behavior.
+
+Method --> A method is a set code which is reffered by name and can be invoked(called) at any point in the program simply by utilizing the methods name.
+
+Variable --> A variable is a container that holds the values that are used in Java programming.
+
+Object --> An object is an instance of a class that has the state and behavior.
+			state --> color,breed, name ************ behavior--> eating, walking, wagling the tail.
+
+Javac --> The javac tools reads class and inrefaces definition written in the Java programming language, and compiles them into a bytecodes class files.
+
+Bytecode --> Bytecode is a computer object code that is processed by a program, usually reffered to as a virtual machine, rather than by the "real" 
+		computer machine, the hardware processor.
+
+Jdk --> The Java Development Kit is a software development environment that is used for developing java application and applets.
+
+applets --> is a small internet-based program written in java, a programming language for Web. Which can be downloaded at any computers.
+
+SDK --> Software Development Kit is a developers tools that enables one to write a code with more ease, effectiveness and efficiency.
+	--> It provides a lot of API that makes the programmer work's easy.
+	
+API --> An Application Programming Interface is a set of routines, protocols and tools for building software application.
+
+IDE --> Integrated Development Environment is a software application which enables the users to more easily write and debug Java programs.
+	--> Many IDE provides features like syntax higlighting and code completion, which help the user to code more easily.
+	
+	
+Ram --> Random Access Memory is a type of computer memory that can be access randomly. Means any bytes in the memory can be access without 
+		the preceeding one. The most common type of memory that can be found in computers and other devices.
+
+CPU --> Central Processing Unit is the brain of the computer where most calculations take place.
+
+Interface
+If/else 
+Case/switch
+Try/catch/finally block
+Boolean 
+Int 
+Long 
+String 
+Short 
