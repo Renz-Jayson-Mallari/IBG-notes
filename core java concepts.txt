@@ -36,7 +36,7 @@ Ram --> Random Access Memory is a type of computer memory that can be access ran
 
 CPU --> Central Processing Unit is the brain of the computer where most calculations take place.
 
-Interface
+Interface --> 
 If/else 
 Case/switch
 Try/catch/finally block
