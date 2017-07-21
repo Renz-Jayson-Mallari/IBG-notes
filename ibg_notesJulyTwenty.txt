@@ -1,0 +1,62 @@
+Renz Jayson Mallari
+7/20/2017 -- IBG lecture 
+
+comment is important to understand each other code
+
+--> comment every lines of code.
+
+you have to learn each line in java.
+
+submitted all the program with comments each line
+
+heading
+
+/*********************************
+* Prints "Hello World"
+* Everyones first World
+*******************************/
+
+// public is access modifier
+// HelloWorld is classname
+public class HelloWorld{
+
+	// function static method
+	// args is arguments
+	public static void main(String[] args){
+		System.out.println("Hello, World");
+	}
+
+}
+
+has to memorize 500 vocabularies.
+
+Meet the requirement on time--
+if you missed thwe deadline it has to be a reason 
+a week before the the dealine.
+
+do whatever it takes to deliver.
+a-- ask question
+b-- source answer
+
+ex.
+String data type
+"1234" + " + " + "99"
+
+Integers data type
+operators + - * / %
+% -- modulo
+modulo is the remainder of the given operation.
+
+Java Math Library --- read the documentation
+ex.
+Math.sin()
+Math.log()
+Math.sqrt()
+Math.min()
+
+Integer opration
+
+1234 + 99 = 1333
+1234 * 99 = 122166
+1234 / 99 = 12
+1234 % 99 = 46

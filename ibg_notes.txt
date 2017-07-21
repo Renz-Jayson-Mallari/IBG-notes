@@ -27,3 +27,7 @@ flash card --> https://quizlet.com/215365044/ibg-vocabulary-1-flash-cards/
 java reading assignment --> https://www.javatpoint.com/java-tutorial
 
 sysout + ctrl + spc == System.out.println("ONly in eclipse");
+
+javatest --> http://www.pskills.org/java.jsp
+
+ToWatch "NodeJS" --> https://www.youtube.com/watch?v=wtIvu085uU0
