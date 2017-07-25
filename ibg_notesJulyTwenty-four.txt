@@ -1,0 +1,56 @@
+7/24/2017
+IBG 
+
+exam on thursday -- no class
+ 2parts of exam 
+ written part and test engine type of exam
+ 
+ assignment will start 0915pm
+ 
+ adding 3 to 5 cards aday on vocabulary
+ 
+ should be submitted to piazza.
+ 
+ write down the 50 vocabs terms 3x ...
+ 
+ training will be alot of memorization
+ 
+ trying out code is part of the learning process
+ 
+ get yourself very comportable with the language
+ 
+ ! not -- inverting the boolean value
+ || or
+ &&
+ ^ exclusive or
+							true	false
+ == equals					2==2	2==3
+ != not equals				3!=2	2!=2
+ < less than				2<13	2<2
+ <= less than / equals		2<=2	3<=2
+ > greater than				13>2	2>13
+ >= greater than / equal	3>=2	2>=3
+ 
+ type conversion
+ -- convert from one type of data to another
+ impplicit
+ -- no loss of precision
+ -- with string
+ explicit
+ --cast
+ --method
+ 
+ Data types summary
+ -- a data type is a set of values and operations on those
+ values.
+ -- string for text processing
+ -- double,int for mathematical calculation
+ --boolean for decision making
+ 
+ In java, you must:
+ --declare data type values
+ --convert between types when necessary
+ why do we need types
+ --type conversion must be done at some level
+ --compiler can help do it correctly
+ --Example 
