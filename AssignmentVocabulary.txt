@@ -96,6 +96,6 @@ Exception --> An exception (or exceptional event) is a problem that arises durin
 
 Console -->  is be used to get input from console. It provides methods to read texts and passwords.
 
-Gargage collection -->  is a program which runs on the Java Virtual Machine which gets rid of objects which are not being used by a Java application anymore. 
+Garbage collection -->  is a program which runs on the Java Virtual Machine which gets rid of objects which are not being used by a Java application anymore. 
 
 public --> A class, method, constructor, interface, etc. declared public can be accessed from any other class. ..
