@@ -27,6 +27,8 @@ flash card --> https://quizlet.com/215365044/ibg-vocabulary-1-flash-cards/
 java reading assignment --> https://www.javatpoint.com/java-tutorial
 
 sysout + ctrl + spc == System.out.println("ONly in eclipse");
+main + ctrl + space  ==  public static void main(String[] args){}
+select all --> ctrl + shift + F
 
 javatest --> http://www.pskills.org/java.jsp
 
