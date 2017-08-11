@@ -29,6 +29,7 @@ java reading assignment --> https://www.javatpoint.com/java-tutorial
 sysout + ctrl + spc == System.out.println("ONly in eclipse");
 main + ctrl + space  ==  public static void main(String[] args){}
 select all --> ctrl + shift + F
+ctrl + d  --> delete the highlight codes
 
 javatest --> http://www.pskills.org/java.jsp
 
