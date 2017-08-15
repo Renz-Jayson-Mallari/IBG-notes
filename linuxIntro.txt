@@ -1,0 +1,82 @@
+<<intro>>
+linux--> is operating system
+
+os --> allows software to talk to the hardware..
+
+linux normally run a servers
+	ex -->apache(web server)
+	 --> database server
+	 
+>>Elias Torvalds--> creator between '91 to '94
+
+>>Linux is not a version of UNIX
+
+>>was created for free(an open source OS)
+
+<<Distribution>>
+>>distros --> distributions
+ --> various version of linux
+	ex redhat
+	   android
+	   ubuntu
+	   
+>>every distros is build for certain job.
+ for office apps and surf the web >>UBUNTU desktop
+ super secure >>TRSUTIX
+ enterprise w/ cc service support>>Redhat
+ 
+ what do u want the server to do before picking the distros
+ 
+ <<Open Source>>
+ open source >> does not mean it is free software
+ 
+ >> open source means that the code is provide to the user 
+ to see how the program run'secure
+ >> user is allow to see the source code
+ 
+ How do vendor get paid
+ >> free os -- but the service and support has payment
+ >> only free for personal use and commercial use is NOT (licensing fee) source code is provided
+ >> free os -- reoccuring contract (monthly,yearly payment) subscription contract.
+ open source >> you are allowed to see the source code so you can see whats happening .
+ 
+ <<The Shell>>
+ >>Shell --> is the screen you use to interact w/ the OS.
+ >>windows shell -- > gui (graphical user interface)shell
+ >>lui shell --> line user interface dos prompt.
+ 
+ >>lui is much more powerful than gui in the linux world
+ 
+ <<Root>>>
+ >>root is the biggest concept in linux
+   >> the highest level of anything...
+   >> the highest level of user
+   >> the highest level for the user
+   >>  can do anything
+   >>  the highest level of the os install
+   
+ <<Capitalization>>
+  >> capitalization matters in linux world.
+  ex Renz != renZ
+  
+ <<Server vs Desktop>>
+ >>version of distros
+	>> desktop --> uses gui
+			   --> other tools r automatically added			   
+	>> server  --> uses lui
+			   --> tools r not included
+	
+ <<Why use Linux>>
+	--> as a desktop is not recommended in terms of speed
+	--> it is recommend for server uses
+	   --> for server functionality
+	   --> rock solid it will keep running day in day out
+	
+ 
+ 
+ 
+  
+   
+ 
+
+
