@@ -1,0 +1,38 @@
+8/17/2017 --thursday
+
+need interact and talk 
+thats why the vocab is very important
+
+
+The most important part is doing
+comment your code 
+
+Conditional loops
+
+sequence of statements thats are actually executed in a program
+emables us to choreograph control flow
+
+if statement 
+if true execute some statement
+if false execute other statement
+
+while loops
+a common repitition structure
+- evaluate a boolean expression
+- if true, execute some statement
+- repeat
+
+
+for loop
+another common repetion structure
+-execute initialization statement
+-evaluate boolean expression
+ -- if true , execute some statement
+- and then the increment statement
+- repeat
+
+Control flow Summary
+
+- sequence of statement that are actually executed in a program
+
+

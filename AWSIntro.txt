@@ -1,0 +1,30 @@
+AWS --> Amazon Web Service
+
+<<What is AWS?>>
+>>IaaS Technology --> Infrastrucsture as a Service
+
+>> They offer different service for you to use to build your own infrastructure
+-->ff
+	-compute
+	-storage
+	-networking
+	-database
+	-DNS
+	
+you can use different services and you can build it however you like
+
+-- https://www.youtube.com/watch?v=N89AffsxS-g -- 5mins
+
+problems:
+
+	Lockin
+	Learning curve
+	Building correct Infrastructure
+	Cost Adds up
+	
+	
+	Pricing of AWS
+	-- Compute Pricing
+	-- Storage Pricing
+	-- Bandwidth Pricing
+	-- Interaction Pricing
